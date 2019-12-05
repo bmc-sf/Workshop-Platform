@@ -1,9 +1,9 @@
-# Workshop---Platform
+# H1 Workshop---Platform
 
-Start here:  https://lightning-platform-workshops.herokuapp.com
+# H3Start here:  https://lightning-platform-workshops.herokuapp.com
 
-For each exercise, click Create Org the use the below link to access the guide.
+For each exercise, click **Create Org** the use the below link to access the guide.
 
-1. Building Apps with Clicks – A Crash Course
-2. Automate a Business Process with Point and Click Tools
-3. Get started with the new Flow Builder
+1. [Building Apps with Clicks – A Crash Course](https://github.com/bmc-sf/Workshop---Platform/blob/master/1%20-%20Building-Apps-with-Clicks-A-Crash-Course.pdf)
+2. [Automate a Business Process with Point and Click Tools](https://github.com/bmc-sf/Workshop---Platform/blob/master/2%20-%20Automate-a-Business-Process-with-Point-and-Click-Tools.pdf)
+3. [Get started with the new Flow Builder](https://github.com/bmc-sf/Workshop---Platform/blob/master/3%20-%20Get%20started%20with%20Flow%20Builder.pdf)
