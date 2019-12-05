@@ -1,4 +1,5 @@
 # Workshop - Platform
+# https://github.com/bmc-sf/Workshop---Platform
 
 ### Start here:  https://lightning-platform-workshops.herokuapp.com
 
