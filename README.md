@@ -1,6 +1,6 @@
-# H1 Workshop---Platform
+# Workshop---Platform
 
-# H3Start here:  https://lightning-platform-workshops.herokuapp.com
+### Start here:  https://lightning-platform-workshops.herokuapp.com
 
 For each exercise, click **Create Org** the use the below link to access the guide.
 
