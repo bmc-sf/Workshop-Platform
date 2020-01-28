@@ -1,4 +1,4 @@
-# Workshop - Platform
+# Workshop - Platform ![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwics-7Xk6fnAhWNmXIEHRpsAQcQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.salesforce.com%2F&psig=AOvVaw0N2CMOmNX6AqlQiRBcoBuB&ust=1580330406842379)
 # https://github.com/bmc-sf/Workshop---Platform
 
 ### Start here:  https://lightning-platform-workshops.herokuapp.com
