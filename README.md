@@ -4,7 +4,7 @@
 ### Start here:  https://lightning-platform-workshops.herokuapp.com
 
 
-For each exercise, click **Create Org** on the **Org Launcher** page, then use the below link to access the guide.
+For each exercise, click **Create Org** on the **Org Launcher** page, then use the below link to access the guide.<br/>
 NOTE:  Leave the **Salesforce DX Public Deployer** tab **Open** for later use
 
 1. [Make Salesforce Your Back Office Agility Layer](https://github.com/bmc-sf/Workshop---Platform/blob/master/Make-Salesforce-Your-Back-Office-Agility-Layer.pdf)
