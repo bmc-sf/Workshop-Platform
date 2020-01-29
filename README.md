@@ -1,7 +1,7 @@
 <img src="https://c1.sfdcstatic.com/content/dam/web/en_us/www/images/home/logo-salesforce.svg" alt="alt text" width="100" height="100">
 
 # Platform Workshop
-## https://github.com/bmc-sf/Workshop---Platform
+## https://github.com/bmc-sf/Workshop-Platform
 
 ### Start here:  https://lightning-platform-workshops.herokuapp.com
 
